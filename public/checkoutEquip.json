@@ -1,0 +1,125 @@
+{
+  "equipment": 
+  [
+    {
+      "returnDate": "2024-05-10",
+      "returnTime": "10:00",
+      "person": "Alice",
+      "equipment": "Laptop",
+      "pickup": "2024-05-15",
+      "approved": false
+    },
+    {
+      "returnDate": "2024-05-11",
+      "returnTime": "11:00",
+      "person": "Bob",
+      "equipment": "Projector",
+      "pickup": "2024-05-20",
+      "approved": true
+    },
+    {
+      "returnDate": "2024-05-12",
+      "returnTime": "09:30",
+      "person": "Charlie",
+      "equipment": "Camera",
+      "pickup": "2024-05-17",
+      "approved": true
+    },
+    {
+      "returnDate": "2024-05-13",
+      "returnTime": "12:15",
+      "person": "Dana",
+      "equipment": "Microphone",
+      "pickup": "2024-05-18",
+      "approved": true
+    },
+    {
+      "returnDate": "2024-05-14",
+      "returnTime": "14:00",
+      "person": "Eve",
+      "equipment": "Speakers",
+      "pickup": "2024-05-21",
+      "approved": true
+    },
+    {
+      "returnDate": "2024-05-15",
+      "returnTime": "13:00",
+      "person": "Frank",
+      "equipment": "Monitor",
+      "pickup": "2024-05-25",
+      "approved": true
+    },
+    {
+      "returnDate": "2024-05-16",
+      "returnTime": "16:45",
+      "person": "Grace",
+      "equipment": "Keyboard",
+      "pickup": "2024-05-30",
+      "approved": true
+    },
+    {
+      "returnDate": "2024-05-17",
+      "returnTime": "15:30",
+      "person": "Heidi",
+      "equipment": "Mouse",
+      "pickup": "2024-05-22",
+      "approved": false
+    },
+    {
+      "returnDate": "2024-05-18",
+      "returnTime": "18:00",
+      "person": "Ivan",
+      "equipment": "Docking Station",
+      "pickup": "2024-05-26",
+      "approved": false
+    },
+    {
+      "returnDate": "2024-05-19",
+      "returnTime": "10:00",
+      "person": "Judy",
+      "equipment": "Tablet",
+      "pickup": "2024-05-29",
+      "approved": true
+    },
+    {
+      "returnDate": "2024-05-20",
+      "returnTime": "11:45",
+      "person": "Ken",
+      "equipment": "Webcam",
+      "pickup": "2024-06-05",
+      "approved": false
+    },
+    {
+      "returnDate": "2024-05-21",
+      "returnTime": "14:00",
+      "person": "Leo",
+      "equipment": "Router",
+      "pickup": "2024-05-25",
+      "approved": true
+    },
+    {
+      "returnDate": "2024-05-22",
+      "returnTime": "16:00",
+      "person": "Mallory",
+      "equipment": "Headphones",
+      "pickup": "2024-05-28",
+      "approved": true
+    },
+    {
+      "returnDate": "2024-05-23",
+      "returnTime": "09:00",
+      "person": "Nina",
+      "equipment": "Printer",
+      "pickup": "2024-05-30",
+      "approved": true
+    },
+    {
+      "returnDate": "2024-05-24",
+      "returnTime": "17:30",
+      "person": "Oscar",
+      "equipment": "Scanner",
+      "pickup": "2024-06-10",
+      "approved": false
+    }
+  ]
+}

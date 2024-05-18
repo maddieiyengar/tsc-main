@@ -1,0 +1,207 @@
+{
+  "title": "Small Tech Checkin/Checkout",
+  "items": [
+    {
+      "item": "MINIDP->VGA/HDMI 3",
+      "description": "Mini DisplayPort to VGA/HDMI",
+      "reserveMax": "3 hours reserve max"
+    },
+    {
+      "item": "TSC HEADPHONES 7",
+      "description": "",
+      "reserveMax": "3 hours reserve max"
+    },
+    {
+      "item": "MINIDP to VGA/HDMI 1",
+      "description": "",
+      "reserveMax": "3 hours reserve max"
+    },
+    {
+      "item": "TSC HEADPHONES 4",
+      "description": "Headphones with microphone",
+      "reserveMax": "3 hours reserve max"
+    },
+    {
+      "item": "TSC HEADPHONES 5",
+      "description": "Headphones with microphone",
+      "reserveMax": "3 hours reserve max"
+    },
+    {
+      "item": "USBC Charger 6",
+      "description": "USBC Charger 6",
+      "person": "Charles Somerville",
+      "dueDate": "4/24 9:00am"
+    },
+    {
+      "item": "USBC Charger 5",
+      "description": "USBC Charger 5",
+      "person": "Jordan Campbell",
+      "dueDate": "5/6 10:00am"
+    },
+    {
+      "item": "MR PEANUT 3",
+      "description": "Presenter clicker",
+      "reserveMax": "3 hours reserve max"
+    },
+    {
+      "item": "TSC HEADPHONES 1",
+      "description": "Headphones with microphone",
+      "reserveMax": "3 hours reserve max"
+    },
+    {
+      "item": "IPAD VGA 2",
+      "description": "iPad to VGA cable",
+      "reserveMax": "3 hours reserve max"
+    },
+    {
+      "item": "TSC 30 PIN CABLE",
+      "description": "USB to 30 pin cable",
+      "reserveMax": "3 hours reserve max"
+    },
+    {
+      "item": "SIMPLIFIED STUDIO KEY",
+      "description": "One Button Studio key BAC A103",
+      "reserveMax": "3 hours reserve max"
+    },
+    {
+      "item": "MAC VGA 3",
+      "description": "Mac Mini DisplayPort to VGA",
+      "reserveMax": "3 hours reserve max"
+    },
+    {
+      "item": "HDMI-VGA 2",
+      "description": "HDMI to VGA cable",
+      "reserveMax": "3 hours reserve max"
+    },
+    {
+      "item": "IPAD VGA 1",
+      "description": "iPad to VGA cable",
+      "reserveMax": "3 hours reserve max"
+    },
+    {
+      "item": "LIGHTNING VGA 1",
+      "description": "Lightning to VGA cable",
+      "reserveMax": "3 hours reserve max"
+    },
+    {
+      "item": "MAC VGA 6",
+      "description": "Mac Mini DisplayPort to VGA",
+      "reserveMax": "3 hours reserve max"
+    },
+    {
+      "item": "MAC VGA",
+      "description": "",
+      "reserveMax": "3 hours reserve max"
+    },
+    {
+      "item": "SAMSUNG BATTERY 2",
+      "description": "",
+      "reserveMax": "3 hours reserve max"
+    },
+    {
+      "item": "SAMSUNG BATTERY 3",
+      "description": "",
+      "reserveMax": "3 hours reserve max"
+    },
+    {
+      "item": "SAMSUNG BATTERY 4",
+      "description": "",
+      "reserveMax": "3 hours reserve max"
+    },
+    {
+      "item": "SAMSUNG BATTERY 1",
+      "description": "",
+      "reserveMax": "3 hours reserve max"
+    },
+    {
+      "item": "PresScan2",
+      "description": "Presence Card Scanner 2",
+      "reserveMax": "3 hours reserve max"
+    },
+    {
+      "item": "PresScan4",
+      "description": "Presence Card Scanner",
+      "reserveMax": "3 hours reserve max"
+    },
+    {
+      "item": "PresScan5",
+      "description": "Presence Card Scanner",
+      "reserveMax": "3 hours reserve max"
+    },
+    {
+      "item": "MAC VGA 4",
+      "description": "",
+      "reserveMax": "3 hours reserve max"
+    },
+    {
+      "item": "MAC VGA 1",
+      "description": "Mac Mini DisplayPort to VGA",
+      "reserveMax": "3 hours reserve max"
+    },
+    {
+      "item": "IPOD UNIVERSAL DOCK",
+      "description": "Universal dock for iPod",
+      "reserveMax": "3 hours reserve max"
+    },
+    {
+      "item": "SAMSUNG BATTERY 5",
+      "description": "",
+      "reserveMax": "3 hours reserve max"
+    },
+    {
+      "item": "MAC VGA 2",
+      "description": "Mac Mini DisplayPort to VGA",
+      "reserveMax": "3 hours reserve max"
+    },
+    {
+      "item": "IPOD ITALK 1",
+      "description": "iTalk iPod speaker with voice recorder",
+      "reserveMax": "3 hours reserve max"
+    },
+    {
+      "item": "MR PEANUT 1",
+      "description": "Presenter clicker",
+      "reserveMax": "3 hours reserve max"
+    },
+    {
+      "item": "TSC HEADPHONES 2",
+      "description": "Headphones with microphone",
+      "reserveMax": "3 hours reserve max"
+    },
+    {
+      "item": "HDMI-VGA 3",
+      "description": "",
+      "reserveMax": "3 hours reserve max"
+    },
+    {
+      "item": "MAC VGA 5",
+      "description": "",
+      "reserveMax": "3 hours reserve max"
+    },
+    {
+      "item": "HDMI-VGA 4",
+      "description": "",
+      "reserveMax": "3 hours reserve max"
+    },
+    {
+      "item": "USB-C VGA 1",
+      "description": "An adapter for connecting computers with USB-C ports to the projectors",
+      "reserveMax": "3 hours reserve max"
+    },
+    {
+      "item": "VGA to USB",
+      "description": "",
+      "reserveMax": "3 hours reserve max"
+    },
+    {
+      "item": "USB to USBC Adapter 6",
+      "description": "",
+      "reserveMax": "3 hours reserve max"
+    },
+    {
+      "item": "USBC SD Card Reader",
+      "description": "",
+      "reserveMax": "3 hours reserve max"
+    }
+  ]
+}
